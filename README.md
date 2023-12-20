@@ -1,2 +1,3 @@
-# Strategy-Game
+# Capture The Flag - Strategy Game
+
 null
